@@ -1,0 +1,27 @@
+#h1{
+    background-color: red;
+}
+ion-content{
+
+}
+
+#categorias-conteiner{
+display: grid;
+grid-template-columns: 1fr 1fr;
+margin: 40;
+
+a{
+    margin: 5px 5px ;
+    font-weight: bold;
+    
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    background-size: cover;
+    background-position: center;
+}
+
+}
+
